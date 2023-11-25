@@ -1,6 +1,8 @@
 # Ayudantia-Hadoop
 joaquin.fernandez1@mail.udp.cl
 
+Video tutorial: https://www.youtube.com/watch?v=A8tadjqP2fw
+
 Para levantar topologia de contenedores:
 ```sh
 docker compose up --build
